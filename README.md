@@ -1,4 +1,4 @@
-q# Phase-Specific Stimulation
+# Phase-Specific Stimulation
 Real-time local field potential phase-specific stimulation
 
 A set of RTXI modules written in C++ that allow stimulation at specific phases (peak or trough) of the local field potential (LFP) in real-time.
