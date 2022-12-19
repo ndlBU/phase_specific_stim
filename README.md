@@ -20,6 +20,8 @@ The package contains 2 modules:
 2. Phase Stimulator
 
 The block diagram for connecting the modules to each other and the input and output of the DAC
+
+
 <img src="https://github.com/ndlBU/phase_specific_stim/blob/main/block_diagram.png" width="600" align="middle">
 
 
